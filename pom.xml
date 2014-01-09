@@ -9,7 +9,7 @@
   
   <groupId>com.ngweb</groupId>
   <artifactId>qfx-to-qb-converter</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>QFX to QBO Converter</name>
   <inceptionYear>2012</inceptionYear>
 
